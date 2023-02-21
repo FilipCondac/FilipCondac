@@ -8,6 +8,7 @@
 - 🌱 I’m currently improving my skills with **ReactJS, Typescript, Tailwind, NodeJS, Express, Next.JS, Firebase and MongoDB**
 
     I have experience in the above and more including : **Google Cloud, Cloudflare Workers, Serverless APIs, mySQL, Postman**
+    
     I have experience in **Python, Java, and PHP** also
 - 📫 How to reach me **filipcondac@gmail.com**
 
