@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Filip Condac</h1>
-<h3 align="center">A passionate student working on full stack</h3>
+<h3 align="center">A passionate student working on full stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipcondac&label=Profile%20views&color=0e75b6&style=flat" alt="filipcondac" /> </p>
 
 - 🔭 I’m currently working on [a file transfer application](https://github.com/FilipCondac/file-sharing)
 
-- 🌱 I’m currently improving my skills with **ReactJS, Typescript, Tailwind and Next.JS**
+- 🌱 I’m currently improving my skills with **ReactJS, Typescript, Tailwind, NodeJS, Express, Next.JS, Firebase and MongoDB**
 
+    I have experience in the above and more including : **Google Cloud, Cloudflare Workers, Serverless APIs, mySQL, Postman**
+    I have experience in **Python, Java, and PHP** also
 - 📫 How to reach me **filipcondac@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
