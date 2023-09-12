@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipcondac&label=Profile%20views&color=0e75b6&style=flat" alt="filipcondac" /> </p>
 
-- 🔭 I’m currently working on [a file transfer application](https://github.com/FilipCondac/file-sharing)
+- 🔭 I’m currently working on practising Next.JS 13.4 & React. Check out my progress on my [Simply Pet App] (https://github.com/FilipCondac/simply-pet-fe)
 
 - 🌱 I’m currently improving my skills with **ReactJS, Typescript, Tailwind, NodeJS, Express, Next.JS, Firebase and MongoDB**
 
