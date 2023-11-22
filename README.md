@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Filip Condac</h1>
-<h3 align="center">A passionate student working on full stack development</h3>
+<h1 align="center">Hi 👋 I'm Filip Condac</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipcondac&label=Profile%20views&color=0e75b6&style=flat" alt="filipcondac" /> </p>
 
