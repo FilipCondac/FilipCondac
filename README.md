@@ -3,6 +3,8 @@
 
 - I’m currently working using **Vue, Vuetify,Javascript, Typescript, Express, Python, Django, K8, Docker, mySQL and many more!**
 
+- I’m currently an Engineer working for **Brainlabs 🧠**
+
 - Reach me at **filipcondac@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
