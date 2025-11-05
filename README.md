@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Filip Condac</h1>
 <h3 align="center">Software Engineer | UK, London</h3>
 
-- I’m currently working using **Vue, Vuetify,Javascript, Typescript, Express, Python, Django, K8, Docker, mySQL and many more!**
+- I’m currently working using **Vue, Typescript, Express, Python, Django, K8, Docker, mySQL and many more!**
 
 - I’m currently an Engineer working for **Brainlabs 🧠**
 
