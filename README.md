@@ -17,16 +17,17 @@
 
 - **Microsoft Containers** — Implemented tree view search 
   - PR: https://github.com/microsoft/vscode-containers/pull/253
-    
   - Status: Merged
 
 
  ### 🌐 Web3
 
-- **FundMe DApp** — A production-ready Ethereum application for funding and withdrawing ETH  
-  - Live: https://fundme-frontend-rust.vercel.app/  
-  - Frontend: https://github.com/FilipCondac/fundme-frontend  
-  - Smart Contract: https://github.com/FilipCondac/fundme-transaction-contract  
+- **FundMe DApp** — An Ethereum application for funding and withdrawing ETH  
+  - Live: https://fundme-frontend-rust.vercel.app/
+  - Etherscan contract: https://sepolia.etherscan.io/address/0xa5bc62e923a7cfdf47747f6d48fa5a3b1655f76b
+  - Repos:
+    - Frontend: https://github.com/FilipCondac/fundme-frontend
+    - Smart Contract: https://github.com/FilipCondac/fundme-transaction-contract  
   - Stack: Solidity, Next.js, TypeScript, Wagmi, viem, TanStack Query
 
  <hr>
